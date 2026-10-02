@@ -1,0 +1,16 @@
+JOB TITLE: Senior Full Stack Engineer
+LOCATION: Remote / San Francisco, CA
+
+POSITION OVERVIEW:
+We are looking for a Senior Full Stack Engineer to build next-generation web applications. You will work closely with product management and design to deliver robust, high-performance web solutions.
+
+REQUIREMENTS:
+- 5+ years of experience with modern web application development.
+- Strong proficiency in TypeScript, JavaScript, React, and Node.js.
+- Solid experience with relational databases (PostgreSQL/MySQL) and RESTful API design.
+- Hands-on experience with unit testing frameworks (e.g. Jest, Vitest).
+- Familiarity with cloud platforms (AWS, GCP) and containerization (Docker).
+
+NICE TO HAVE:
+- Experience with GraphQL, Next.js, and Redis caching.
+- Familiarity with CI/CD deployment pipelines.

@@ -1,0 +1,16 @@
+JOB TITLE: Senior DevOps & Infrastructure Specialist
+LOCATION: Remote / Seattle, WA
+
+POSITION OVERVIEW:
+We are seeking a Senior DevOps Specialist to manage cloud infrastructure, build CI/CD automation, and maintain highly available Kubernetes clusters.
+
+REQUIREMENTS:
+- 5+ years of experience in DevOps, Infrastructure, or SRE roles.
+- Expert knowledge of Kubernetes, Docker, and Container Orchestration.
+- Strong proficiency in Infrastructure as Code (Terraform, CloudFormation, or Ansible).
+- Extensive experience with AWS cloud services (EKS, VPC, EC2, IAM, S3).
+- Mastery of CI/CD pipelines (GitHub Actions, GitLab CI, Jenkins).
+
+NICE TO HAVE:
+- Experience with Prometheus, Grafana, and ELK stack observability.
+- Programming skills in Python or Go for infrastructure tooling.

@@ -1,0 +1,16 @@
+JOB TITLE: Senior Machine Learning Engineer
+LOCATION: Remote / Austin, TX
+
+POSITION OVERVIEW:
+We are seeking an experienced ML Engineer to design, fine-tune, and deploy machine learning and Large Language Model (LLM) solutions into production.
+
+REQUIREMENTS:
+- 4+ years of professional ML/AI experience.
+- Advanced proficiency in Python, PyTorch, and Scikit-Learn.
+- Experience building high-performance inference APIs using FastAPI or Flask.
+- Demonstrated experience deploying ML models to AWS SageMaker or Kubernetes.
+- Knowledge of vector databases, LLM fine-tuning, and retrieval-augmented generation (RAG).
+
+NICE TO HAVE:
+- Experience with HuggingFace Transformers and Distributed Training.
+- Familiarity with MLOps tracking tools (MLflow, Weights & Biases).

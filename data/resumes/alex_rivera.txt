@@ -1,0 +1,21 @@
+ALEX RIVERA
+Austin, TX | alex.rivera@example.com | (555) 321-7654
+
+SUMMARY
+Senior Machine Learning & Backend Engineer with 6 years of experience building scalable ML data pipelines, fine-tuning LLMs, PyTorch model deployment, and FastAPI microservices.
+
+SKILLS
+- Machine Learning & AI: Python, PyTorch, Scikit-Learn, Transformers, HuggingFace, LLM Fine-Tuning
+- Backend & Data: FastAPI, Flask, PostgreSQL, Redis, Apache Spark, Kafka
+- Infrastructure: Docker, Kubernetes, AWS (SageMaker, S3), CI/CD
+
+EXPERIENCE
+Senior ML Engineer | NeuralScale AI | 2022 - Present
+- Built and deployed LLM inference pipelines using FastAPI and PyTorch on AWS SageMaker.
+- Optimized vector search indexing and retrieval pipelines reducing latency by 45%.
+
+Data Scientist / ML Developer | DataSphere | 2018 - 2022
+- Developed predictive models using Scikit-Learn and PyTorch for customer churn prediction.
+
+EDUCATION
+M.S. in Computer Science (Machine Learning) | UT Austin | 2018

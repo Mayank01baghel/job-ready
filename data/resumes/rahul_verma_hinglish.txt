@@ -1,0 +1,23 @@
+RAHUL VERMA
+Bengaluru, India | rahul.verma@example.com | +91 91234 56789
+
+SUMMARY
+Mera naam Rahul Verma hai. Main 4 saal se Software Development mein kaam kar raha hoon. Primary skills hain Python, Django, REST APIs aur MySQL. System optimization aur bug fixing mein acchi pakad hai.
+
+SKILLS
+- Programming Languages: Python, JavaScript, SQL, C++
+- Frameworks & Tools: Django, FastAPI, Docker, Git, MySQL
+- Soft Skills: Team Leadership, Problem Solving, Agile Communication
+
+WORK EXPERIENCE
+Software Developer | InnoTech Solutions | 2022 - Present
+- Python aur Django frameworks ka istemal karke high throughput backend endpoints banaye.
+- Database optimization se API latency 30% kam ki.
+- Team members ke sath code reviews aur sprint planning follow ki.
+
+Junior Developer | CodeCrafters India | 2020 - 2022
+- REST APIs design kiye aur legacy code refactor kiya.
+- Automated testing setup karke code reliability improve ki.
+
+EDUCATION
+B.E. in Information Technology | VTU Bengaluru | 2020

@@ -1,0 +1,21 @@
+MARCUS VANCE
+Seattle, WA | marcus.vance@example.com | (555) 789-0123
+
+SUMMARY
+DevOps & Site Reliability Engineer with 8 years of experience managing Kubernetes clusters, Terraform infrastructure as code, AWS cloud architectures, and CI/CD automation.
+
+SKILLS
+- Cloud & Infrastructure: AWS, Terraform, Ansible, Linux/Unix administration
+- Containers & Orchestration: Kubernetes, Docker, Helm
+- Monitoring & CI/CD: Prometheus, Grafana, GitHub Actions, GitLab CI
+
+EXPERIENCE
+Lead DevOps Engineer | CloudScale Systems | 2020 - Present
+- Managed multi-region Kubernetes infrastructure on AWS EKS serving 10M+ daily API calls.
+- Automated zero-downtime blue/green deployments using Helm and GitHub Actions.
+
+SRE / Infrastructure Engineer | DataPipeline Inc | 2016 - 2020
+- Built Terraform modules for automated AWS cloud provisioning and Grafana monitoring alerts.
+
+EDUCATION
+B.S. in Computer Engineering | University of Washington | 2016

@@ -1,0 +1,24 @@
+SARAH CHEN
+San Francisco, CA | sarah.chen@example.com | (555) 019-2831
+
+SUMMARY
+Experienced Full Stack Engineer with 7 years of expertise in building scalable web applications, distributed microservices, and reactive user interfaces using React, TypeScript, Node.js, and PostgreSQL.
+
+SKILLS
+- Programming: TypeScript, JavaScript, Python, HTML5, CSS3, SQL
+- Frontend: React, Redux, Next.js, Tailwind CSS
+- Backend: Node.js, Express, REST APIs, GraphQL, PostgreSQL, Redis
+- Tools & Cloud: Git, Docker, Jest, AWS (S3, EC2), CI/CD pipelines
+
+EXPERIENCE
+Senior Software Engineer | TechCorp Inc. | 2021 - Present
+- Architected and implemented high-throughput web APIs using Node.js and PostgreSQL, serving 2M+ active users.
+- Led frontend design using React and TypeScript, improving page load performance by 35%.
+- Implemented robust unit testing with Jest achieving 90% code coverage across core services.
+
+Software Engineer | WebFlow Systems | 2017 - 2021
+- Developed RESTful API endpoints and integrated third-party payment processing solutions.
+- Built reactive analytics dashboard components in React and Redux.
+
+EDUCATION
+B.S. in Computer Science | University of California, Berkeley | 2017

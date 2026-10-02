@@ -1,0 +1,38 @@
+# Model tier pricing and specifications (illustrative defaults, not measured vendor figures)
+
+tiers:
+  small:
+    name: "Tier-Small (e.g. 8B parameter class)"
+    input_price_per_m: 0.15      # USD per 1M tokens (illustrative)
+    output_price_per_m: 0.60     # USD per 1M tokens (illustrative)
+    cached_input_discount: 0.50  # 50% discount on cached static prefix tokens
+    batch_discount: 0.50         # 50% discount for async batch jobs
+    cache_write_premium: 1.0     # 1.0 = no premium on first write
+    latency_ms_per_doc: 200      # Estimated latency in ms (illustrative)
+    max_context_window: 128000
+    description: "Fast, low-cost model suitable for classification, simple extraction, high-volume FAQ."
+
+  medium:
+    name: "Tier-Medium (e.g. 70B parameter class)"
+    input_price_per_m: 0.80      # USD per 1M tokens (illustrative)
+    output_price_per_m: 3.20     # USD per 1M tokens (illustrative)
+    cached_input_discount: 0.50
+    batch_discount: 0.50
+    cache_write_premium: 1.0
+    latency_ms_per_doc: 600
+    max_context_window: 128000
+    description: "Balanced model for routine analysis, standard Q&A, and structured parsing."
+
+  large:
+    name: "Tier-Large (e.g. Frontier 400B+ class)"
+    input_price_per_m: 3.00      # USD per 1M tokens (illustrative)
+    output_price_per_m: 12.00    # USD per 1M tokens (illustrative)
+    cached_input_discount: 0.50
+    batch_discount: 0.50
+    cache_write_premium: 1.0
+    latency_ms_per_doc: 1800
+    max_context_window: 200000
+    description: "High-reasoning frontier model for complex technical feedback, multi-step synthesis."
+
+metadata:
+  note: "All prices and latency figures in this file are illustrative placeholders for evaluation."
